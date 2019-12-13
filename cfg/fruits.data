@@ -1,0 +1,6 @@
+classes = 120
+train = data/fruits/train.list
+valid = data/fruits/test.list
+labels = data/fruits/labels.txt
+backup = backup/
+top=2
